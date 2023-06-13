@@ -10,8 +10,7 @@
 
 </span>
 </br>
-<div style="text-align: center, margin:auto">
-
+<div style="text-align: center; margin: auto; width: 60%">
 [![](./assets/gitbash.png "deltree c:")](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![](./assets/html5.png "maybe I should put it in another div")](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![](./assets/CSS.png "just align to the !&$%ing centre")](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -23,7 +22,7 @@
 
 </div>
 </br>
-<!--  'C:\Users\Adacra\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc\LocalState\ext4.vhdx' to WSL2: The system cannot find the file specified. -->
+
 ## <span style="color:#2DB0C5; font-family:Georgia;">Where I learned them.</span>
 </br>
 <div style="text-align: center">
