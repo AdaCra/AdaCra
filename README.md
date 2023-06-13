@@ -10,7 +10,7 @@
 
 </span>
 </br>
-<div style="text-align: center">
+<div style="text-align: center, margin:auto">
 
 [![](./assets/gitbash.png "deltree c:")](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![](./assets/html5.png "maybe I should put it in another div")](https://developer.mozilla.org/en-US/docs/Web/HTML)
