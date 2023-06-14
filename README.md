@@ -5,18 +5,19 @@
 </span>
 </div>
 </br>
-
+<style>
+.super_Div{padding-top: 25px; text-align:center; background:#3a4556; border-radius: 25px; width:600px; display:flex; justify-content: center; align-items: center;}
+</style>
 
 ## <span style="color:#2DB0C5; font-family:Georgia;"> Tools of the trade.
 
 </span>
 </br>
 
-
 ### <span style="color:#2DB0C5; font-family:Georgia; text-align:center; vertical-align:center">Where I learned them.</span>
 
 </br>
-<div style="padding-top: 25px; text-align:center; background-color:#3a4556; border-radius: 25px; width:600px; display:flex; justify-content: center; align-items: center;">
+<div class="super_Div">
 
 [![](./assets/gitbash.png ".gitignore .env")](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![](./assets/html5.png "maybe I should use another div")](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -33,6 +34,7 @@
 <div style="text-align: center">
 
 ### <span style="color:#2DB0C5; font-family:Georgia; text-align:center;">Where I learned them.</span>
+
 </br>
 <div style="padding-top: 25px; text-align:center; background-color:#3a4556; border-radius: 25px; width:600px; display:flex; justify-content: center; align-items: center;">
 
@@ -54,6 +56,5 @@
 ![Statistics](https://github-readme-stats.vercel.app/api?username=AdaCra&show_icons=true)
 
 ![Language use](https://github-readme-stats.vercel.app/api/top-langs/?username=AdaCra&theme=blue-darkgrey)
-
 
 </div>
