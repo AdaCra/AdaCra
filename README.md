@@ -1,57 +1,31 @@
-# <span style="color:#2DB0C5; font-family:Georgia; font-size:1.2em;"> Howzit</span>
+# Howzit
 
-<div>
-<span style="font-family:Helvetica; text-align:center;">My name is just to the left of this panel, under the trumpeting cat, as you have probably seen. I'm a former Architectural Technologist from Cape Town, South Africa. After moving to Berlin in February of 2020 (<i>Yeah, perfect timing, right!</i>) I decided to migrate my skills to the tech industry. So here I am...</br></br> <div><b>Welcome to my Repository.</b></div>
-</span>
-</div>
-</br>
+My name is just to the left of this panel, under the trumpeting cat, as you have probably seen. I'm a former Architectural Technologist from Cape Town, South Africa. After moving to Berlin in February of 2020 (Yeah, perfect timing, right!) I decided to migrate my skills to the tech industry. So here I am...
 
-## <span style="color:#2DB0C5; font-family:Georgia;"> Tools of the trade.
+**Welcome to my Repository.**
 
-</span>
-</br>
+## Tools of the trade.
 
-### <span style="color:#2DB0C5; font-family:Georgia; text-align:center; vertical-align:center">Where I learned them.</span>
+### Where I learned them.
 
-</br>
-<div class="super_Div">
+[![.gitignore .env](./assets/gitbash.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![HTML5](./assets/html5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](./assets/CSS.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](./assets/Javascript.png)](https://developer.mozilla.org/en-US/docs/Web/Javascript)
+[![Node.js](./assets/node.png)](https://nodejs.org/en/about/)
+[![MongoDB](./assets/Mongo.png)](https://nodejs.org/en/about/)
+[![Handlebars](./assets/Handlebars.png)](https://www.handlebarsjs.com/)
+[![React](./assets/React.png)](https://react.dev/)
+[![Next.js](./assets/next.png)](https://nextjs.org/)
 
-[![](./assets/gitbash.png ".gitignore .env")](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![](./assets/html5.png "maybe I should use another div")](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![](./assets/CSS.png "just align to the !&$%ing centre")](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![](./assets/Javascript.png "This stuff makes my heart race")](https://developer.mozilla.org/en-US/docs/Web/Javascript)
-[![](./assets/node.png "the LinkedIn of WebDev")](https://nodejs.org/en/about/)<br/>
-[![](./assets/Mongo.png ".gitignore .env")](https://nodejs.org/en/about/)
-[![](./assets/Handlebars.png "Yes, yes, my little cookie cutter")](https://www.handlebarsjs.com/)
-[![](./assets/next.png "Routing made complexedly easy")](https://nextjs.org/)
-[![](./assets/React.png "& I only want to see one page.")](https://react.dev/)
+### Where I learned them.
 
-</div>
-</br>
-<div style="text-align: center">
+[![Ironhack](./assets/ironhack.png)](https://www.ironhack.com/de/berlin)
+[![Spiced Academy](./assets/spiced.jpg)](https://www.spiced-academy.com/en)
+[![Udemy](./assets/udemy.png)](https://www.ironhack.com/de/berlin)
 
-### <span style="color:#2DB0C5; font-family:Georgia; text-align:center;">Where I learned them.</span>
-
-</br>
-<div class="super_Div">
-
-[![](./assets/ironhack.png "October 2022")](https://www.ironhack.com/de/berlin)
-[![](./assets/spiced.jpg "March 2023")](https://www.spiced-academy.com/en)
-[![](./assets/udemy.png "October 2022")](https://www.ironhack.com/de/berlin)
-
-</div>
-
-</div>
-</br>
-
-## <span style="color:#2DB0C5; font-family:Georgia;">How I use them.</span>
-
-</br>
-
-<div style="text-align: center">
+## How I use them.
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=AdaCra&show_icons=true)
 
 ![Language use](https://github-readme-stats.vercel.app/api/top-langs/?username=AdaCra&theme=blue-darkgrey)
-
-</div>
