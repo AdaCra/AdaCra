@@ -8,12 +8,12 @@ My name is just to the left of this panel, under the trumpeting cat, as you have
 
 ### What I use.
 
-[![.gitignore .env](./assets/GitBash.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![.gitignore .env](./assets/GitBash.png)]([https://developer.mozilla.org/en-US/docs/Web/HTML](https://git-scm.com/))
 [![HTML5](./assets/html5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](./assets/css.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS](./assets/css.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 [![JavaScript](./assets/Javascript.png)](https://developer.mozilla.org/en-US/docs/Web/Javascript)
 [![Node.js](./assets/Node.png)](https://nodejs.org/en/about/)
-[![MongoDB](./assets/Mongo.png)](https://nodejs.org/en/about/)
+[![MongoDB](./assets/Mongo.png)](https://www.mongodb.com/)
 [![Handlebars](./assets/Handlebars.png)](https://www.handlebarsjs.com/)
 [![React](./assets/React.png)](https://react.dev/)
 [![Next.js](./assets/Next.png)](https://nextjs.org/)
@@ -22,7 +22,7 @@ My name is just to the left of this panel, under the trumpeting cat, as you have
 
 [![Ironhack](./assets/ironhack.png)](https://www.ironhack.com/de/berlin)
 [![Spiced Academy](./assets/spiced.jpg)](https://www.spiced-academy.com/en)
-[![Udemy](./assets/udemy.png)](https://www.ironhack.com/de/berlin)
+[![Udemy](./assets/udemy.png)](https://www.udemy.com/)
 
 ## How I use them.
 
